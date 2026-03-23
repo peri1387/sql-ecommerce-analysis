@@ -1,7 +1,7 @@
 **#  🗄️ SQL E-commerce Database Analysis**
 
 
-**## 🗂️ Project Overview**
+**## 🗂️ Project Overview*
 
 This project focuses on designing and analyzing an e-commerce database using SQL.
 
@@ -9,7 +9,7 @@ It includes database schema creation, data insertion, and analytical queries.
 
 
 
-**## 📗 Features**
+**## 📗 Features*
 
 \- Database schema design
 
@@ -23,7 +23,7 @@ It includes database schema creation, data insertion, and analytical queries.
 
 
 
-**## 🧑‍💻 Technologies Used**
+**## 🧑‍💻 Technologies Used*
 
 \- SQL (CTEs, Views, Joins)
 
@@ -33,13 +33,13 @@ It includes database schema creation, data insertion, and analytical queries.
 
 
 
-**## 🧬 Project Structure**
+**## 🧬 Project Structure*
 
 See folders for schema, data, queries, and documentation.
 
 
 
-**##  🧑🏻‍🎓 What I Learned**
+**##  🧑🏻‍🎓 What I Learned*
 
 \- Designing relational schemas
 
